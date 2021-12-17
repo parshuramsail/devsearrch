@@ -4,7 +4,7 @@
 - Django
 - HTML / CSS
 
-## Live Demo : [Click here](https://todoparesh.herokuapp.com/login/?next=//)
+## Live Demo : [Click here](https://devsearchworld.herokuapp.com/)
 
 ### Website Features
 - Browse and search for developers
@@ -22,6 +22,5 @@
 ![4](result/result3.png)
 ![5](result/result4.png)
 
-### Developer Staff
-- [h4cktivist](https://github.com/h4cktivist)
-- Templates for frontend were taken from [divanov11/Django-2021](https://github.com/divanov11/Django-2021)
+
+#### Templates for frontend were taken from [divanov11/Django-2021](https://github.com/divanov11/Django-2021)
